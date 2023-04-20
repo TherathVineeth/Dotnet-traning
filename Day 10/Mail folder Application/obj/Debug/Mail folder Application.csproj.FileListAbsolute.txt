@@ -1,0 +1,14 @@
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\Mail folder Application.exe.config
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\Mail folder Application.exe
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\Mail folder Application.pdb
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\Antlr3.Runtime.dll
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\ExpressionEvaluator.dll
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\GSF.Core.dll
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\Antlr3.Runtime.pdb
+D:\Dotnet\Day 10\Mail folder Application\bin\Debug\GSF.Core.xml
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.csproj.AssemblyReference.cache
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.csproj.CopyComplete
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.exe
+D:\Dotnet\Day 10\Mail folder Application\obj\Debug\Mail folder Application.pdb
