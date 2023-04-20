@@ -1,0 +1,8 @@
+D:\Dotnet\Day11\AnonymousDel\bin\Debug\AnonymousDel.exe.config
+D:\Dotnet\Day11\AnonymousDel\bin\Debug\AnonymousDel.exe
+D:\Dotnet\Day11\AnonymousDel\bin\Debug\AnonymousDel.pdb
+D:\Dotnet\Day11\AnonymousDel\obj\Debug\AnonymousDel.csproj.AssemblyReference.cache
+D:\Dotnet\Day11\AnonymousDel\obj\Debug\AnonymousDel.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day11\AnonymousDel\obj\Debug\AnonymousDel.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day11\AnonymousDel\obj\Debug\AnonymousDel.exe
+D:\Dotnet\Day11\AnonymousDel\obj\Debug\AnonymousDel.pdb

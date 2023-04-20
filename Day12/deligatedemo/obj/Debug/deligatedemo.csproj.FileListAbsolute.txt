@@ -1,0 +1,8 @@
+D:\Dotnet\Day11\deligatedemo\bin\Debug\deligatedemo.exe.config
+D:\Dotnet\Day11\deligatedemo\bin\Debug\deligatedemo.exe
+D:\Dotnet\Day11\deligatedemo\bin\Debug\deligatedemo.pdb
+D:\Dotnet\Day11\deligatedemo\obj\Debug\deligatedemo.csproj.AssemblyReference.cache
+D:\Dotnet\Day11\deligatedemo\obj\Debug\deligatedemo.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day11\deligatedemo\obj\Debug\deligatedemo.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day11\deligatedemo\obj\Debug\deligatedemo.exe
+D:\Dotnet\Day11\deligatedemo\obj\Debug\deligatedemo.pdb

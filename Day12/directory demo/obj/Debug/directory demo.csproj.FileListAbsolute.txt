@@ -1,0 +1,8 @@
+D:\Dotnet\Day11\directory demo\bin\Debug\directory demo.exe.config
+D:\Dotnet\Day11\directory demo\bin\Debug\directory demo.exe
+D:\Dotnet\Day11\directory demo\bin\Debug\directory demo.pdb
+D:\Dotnet\Day11\directory demo\obj\Debug\directory demo.csproj.AssemblyReference.cache
+D:\Dotnet\Day11\directory demo\obj\Debug\directory demo.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day11\directory demo\obj\Debug\directory demo.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day11\directory demo\obj\Debug\directory demo.exe
+D:\Dotnet\Day11\directory demo\obj\Debug\directory demo.pdb

@@ -1,0 +1,8 @@
+D:\Dotnet\Day11\Streamwriter\bin\Debug\Streamwriter.exe.config
+D:\Dotnet\Day11\Streamwriter\bin\Debug\Streamwriter.exe
+D:\Dotnet\Day11\Streamwriter\bin\Debug\Streamwriter.pdb
+D:\Dotnet\Day11\Streamwriter\obj\Debug\Streamwriter.csproj.AssemblyReference.cache
+D:\Dotnet\Day11\Streamwriter\obj\Debug\Streamwriter.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day11\Streamwriter\obj\Debug\Streamwriter.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day11\Streamwriter\obj\Debug\Streamwriter.exe
+D:\Dotnet\Day11\Streamwriter\obj\Debug\Streamwriter.pdb

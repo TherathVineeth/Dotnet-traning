@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car Pooling System", "Car Pooling System.csproj", "{8DEB82A5-65D9-44E8-B31F-3CE54501B07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requirement5", "..\Requirement5\Requirement5.csproj", "{1D1BAE23-5CBA-46F4-ADDB-20AA5047E038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requirement02", "..\Requirement02\Requirement02.csproj", "{B158F4C2-CB72-4DB9-89FF-7394BDB657A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requirement", "..\Requirement\Requirement.csproj", "{73CFD207-831D-4C10-BEB4-8A88A328206D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requirement3", "..\Requirement3\Requirement3.csproj", "{ADD2AB34-3190-4ECD-A70A-BF88D51ADAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Requirement4", "..\Requirement4\Requirement4.csproj", "{7731EEAC-B850-486F-A2D5-69FBF057BD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEB82A5-65D9-44E8-B31F-3CE54501B07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEB82A5-65D9-44E8-B31F-3CE54501B07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEB82A5-65D9-44E8-B31F-3CE54501B07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEB82A5-65D9-44E8-B31F-3CE54501B07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1BAE23-5CBA-46F4-ADDB-20AA5047E038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1BAE23-5CBA-46F4-ADDB-20AA5047E038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1BAE23-5CBA-46F4-ADDB-20AA5047E038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1BAE23-5CBA-46F4-ADDB-20AA5047E038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B158F4C2-CB72-4DB9-89FF-7394BDB657A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B158F4C2-CB72-4DB9-89FF-7394BDB657A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B158F4C2-CB72-4DB9-89FF-7394BDB657A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B158F4C2-CB72-4DB9-89FF-7394BDB657A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CFD207-831D-4C10-BEB4-8A88A328206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CFD207-831D-4C10-BEB4-8A88A328206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CFD207-831D-4C10-BEB4-8A88A328206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CFD207-831D-4C10-BEB4-8A88A328206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD2AB34-3190-4ECD-A70A-BF88D51ADAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD2AB34-3190-4ECD-A70A-BF88D51ADAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD2AB34-3190-4ECD-A70A-BF88D51ADAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD2AB34-3190-4ECD-A70A-BF88D51ADAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7731EEAC-B850-486F-A2D5-69FBF057BD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7731EEAC-B850-486F-A2D5-69FBF057BD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7731EEAC-B850-486F-A2D5-69FBF057BD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7731EEAC-B850-486F-A2D5-69FBF057BD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D3E071-8B6A-48DC-8EFD-6FA298C17D21}
+	EndGlobalSection
+EndGlobal

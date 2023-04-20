@@ -1,0 +1,8 @@
+D:\Dotnet\Day11\trycatch demo\bin\Debug\trycatch demo.exe.config
+D:\Dotnet\Day11\trycatch demo\bin\Debug\trycatch demo.exe
+D:\Dotnet\Day11\trycatch demo\bin\Debug\trycatch demo.pdb
+D:\Dotnet\Day11\trycatch demo\obj\Debug\trycatch demo.csproj.AssemblyReference.cache
+D:\Dotnet\Day11\trycatch demo\obj\Debug\trycatch demo.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day11\trycatch demo\obj\Debug\trycatch demo.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day11\trycatch demo\obj\Debug\trycatch demo.exe
+D:\Dotnet\Day11\trycatch demo\obj\Debug\trycatch demo.pdb
