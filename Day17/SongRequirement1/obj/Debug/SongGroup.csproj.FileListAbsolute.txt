@@ -1,0 +1,8 @@
+D:\Dotnet\Day15\SongGroup\bin\Debug\SongGroup.exe.config
+D:\Dotnet\Day15\SongGroup\bin\Debug\SongGroup.exe
+D:\Dotnet\Day15\SongGroup\bin\Debug\SongGroup.pdb
+D:\Dotnet\Day15\SongGroup\obj\Debug\SongGroup.csproj.AssemblyReference.cache
+D:\Dotnet\Day15\SongGroup\obj\Debug\SongGroup.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day15\SongGroup\obj\Debug\SongGroup.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day15\SongGroup\obj\Debug\SongGroup.exe
+D:\Dotnet\Day15\SongGroup\obj\Debug\SongGroup.pdb

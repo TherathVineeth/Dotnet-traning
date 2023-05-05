@@ -1,0 +1,8 @@
+D:\Dotnet\Day15\song req 3\bin\Debug\song req 3.exe.config
+D:\Dotnet\Day15\song req 3\bin\Debug\song req 3.exe
+D:\Dotnet\Day15\song req 3\bin\Debug\song req 3.pdb
+D:\Dotnet\Day15\song req 3\obj\Debug\song req 3.csproj.AssemblyReference.cache
+D:\Dotnet\Day15\song req 3\obj\Debug\song req 3.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day15\song req 3\obj\Debug\song req 3.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day15\song req 3\obj\Debug\song req 3.exe
+D:\Dotnet\Day15\song req 3\obj\Debug\song req 3.pdb
