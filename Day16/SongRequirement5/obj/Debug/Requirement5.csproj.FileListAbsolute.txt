@@ -1,0 +1,8 @@
+D:\Dotnet\Day15\Requirement5\bin\Debug\Requirement5.exe.config
+D:\Dotnet\Day15\Requirement5\bin\Debug\Requirement5.exe
+D:\Dotnet\Day15\Requirement5\bin\Debug\Requirement5.pdb
+D:\Dotnet\Day15\Requirement5\obj\Debug\Requirement5.csproj.AssemblyReference.cache
+D:\Dotnet\Day15\Requirement5\obj\Debug\Requirement5.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day15\Requirement5\obj\Debug\Requirement5.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day15\Requirement5\obj\Debug\Requirement5.exe
+D:\Dotnet\Day15\Requirement5\obj\Debug\Requirement5.pdb
