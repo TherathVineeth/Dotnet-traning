@@ -1,0 +1,8 @@
+D:\Dotnet\Day23\Extension\bin\Debug\Extension.exe.config
+D:\Dotnet\Day23\Extension\bin\Debug\Extension.exe
+D:\Dotnet\Day23\Extension\bin\Debug\Extension.pdb
+D:\Dotnet\Day23\Extension\obj\Debug\Extension.csproj.AssemblyReference.cache
+D:\Dotnet\Day23\Extension\obj\Debug\Extension.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day23\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day23\Extension\obj\Debug\Extension.exe
+D:\Dotnet\Day23\Extension\obj\Debug\Extension.pdb

@@ -1,0 +1,15 @@
+D:\Dotnet\Day23\MyApp\bin\Debug\net7.0\MyApp.exe
+D:\Dotnet\Day23\MyApp\bin\Debug\net7.0\MyApp.deps.json
+D:\Dotnet\Day23\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+D:\Dotnet\Day23\MyApp\bin\Debug\net7.0\MyApp.dll
+D:\Dotnet\Day23\MyApp\bin\Debug\net7.0\MyApp.pdb
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.dll
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.pdb
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+D:\Dotnet\Day23\MyApp\obj\Debug\net7.0\ref\MyApp.dll

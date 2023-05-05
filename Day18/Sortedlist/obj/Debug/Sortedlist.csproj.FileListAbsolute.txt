@@ -1,0 +1,8 @@
+D:\Dotnet\Day15\Sortedlist\bin\Debug\Sortedlist.exe.config
+D:\Dotnet\Day15\Sortedlist\bin\Debug\Sortedlist.exe
+D:\Dotnet\Day15\Sortedlist\bin\Debug\Sortedlist.pdb
+D:\Dotnet\Day15\Sortedlist\obj\Debug\Sortedlist.csproj.AssemblyReference.cache
+D:\Dotnet\Day15\Sortedlist\obj\Debug\Sortedlist.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day15\Sortedlist\obj\Debug\Sortedlist.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day15\Sortedlist\obj\Debug\Sortedlist.exe
+D:\Dotnet\Day15\Sortedlist\obj\Debug\Sortedlist.pdb
