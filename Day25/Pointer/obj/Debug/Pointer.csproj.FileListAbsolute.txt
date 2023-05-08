@@ -1,0 +1,8 @@
+D:\Dotnet\Day25\Pointer\obj\Debug\Pointer.csproj.AssemblyReference.cache
+D:\Dotnet\Day25\Pointer\obj\Debug\Pointer.csproj.SuggestedBindingRedirects.cache
+D:\Dotnet\Day25\Pointer\obj\Debug\Pointer.csproj.CoreCompileInputs.cache
+D:\Dotnet\Day25\Pointer\bin\Debug\Pointer.exe.config
+D:\Dotnet\Day25\Pointer\bin\Debug\Pointer.exe
+D:\Dotnet\Day25\Pointer\bin\Debug\Pointer.pdb
+D:\Dotnet\Day25\Pointer\obj\Debug\Pointer.exe
+D:\Dotnet\Day25\Pointer\obj\Debug\Pointer.pdb
