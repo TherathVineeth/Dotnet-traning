@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+
+        function Table() {
+      
+          var num;
+      
+          num = Number(document.getElementById("Number").value);
+      
+          for (var i = 1; i <= 10; i++) {
+      
+            var a = document.getElementById("Print");
+      
+            a.innerHTML += num * i + "<br/>";
+      
+          }
+      
+        }
+      
+      </script>
+</head>
+
+ <body>
+    <h1>Table for the entered Number.</h1>
+
+    <p><input type="number" id="Number" placeholder="Enter number" /></p>
+  
+    <p>
+  
+      <input type="submit" value="Print Table" onclick="Table()" />
+  
+    </p>
+  
+    <p id="Print"></p>
+ </body>
+</html>
